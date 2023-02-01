@@ -1,0 +1,22 @@
+body{
+    background: url(cefet.jpg) center;
+    width: 95%;
+    max-width: 800px;
+    margin:auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(11, 255, 31);
+    line-height: 1.5;
+      
+}
+
+main{
+    background: #0000005e;
+    padding: 10px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo, .titulo, .subtitulo{
+    margin: 0%;
+    text-align: center;
+}
