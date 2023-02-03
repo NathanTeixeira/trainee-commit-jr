@@ -21,6 +21,6 @@ Faça um portfolio de pagina única em HTML e CSS, adicione um texto com suas in
 </aside>
 
 - Voltar o estado de seu projeto para um commit anterior. (x)
-- Modificar a mensagem de um commit já realizado
-- Modificar o repositorio para o qual os pushs são enviados para outro repositório
+- Modificar a mensagem de um commit já realizado (x)
+- Modificar o repositorio para o qual os pushs são enviados para outro repositório  (x)
 - Criar uma pipeline ou CI para seu projeto
