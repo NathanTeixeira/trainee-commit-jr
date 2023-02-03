@@ -12,8 +12,8 @@ Faça um portfolio de pagina única em HTML e CSS, adicione um texto com suas in
 
 - Uma ou mais branches (x)
 - Um ou mais commits (x)
-- Um pull request ainda não aprovado
-- Um pull request aprovado
+- Um pull request ainda não aprovado (x)
+- Um pull request aprovado (x)
 
 ## Caso você queira aprofundar seus conhecimentos, você pode tentar:
 
