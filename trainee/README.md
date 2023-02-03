@@ -10,8 +10,8 @@ Faça um portfolio de pagina única em HTML e CSS, adicione um texto com suas in
 
 ## O repositório DEVE conter
 
-- Uma ou mais branches
-- Um ou mais commits
+- Uma ou mais branches (x)
+- Um ou mais commits (x)
 - Um pull request ainda não aprovado
 - Um pull request aprovado
 
@@ -22,7 +22,7 @@ Faça um portfolio de pagina única em HTML e CSS, adicione um texto com suas in
 
 </aside>
 
-- Voltar o estado de seu projeto para um commit anterior.
+- Voltar o estado de seu projeto para um commit anterior. (x)
 - Modificar a mensagem de um commit já realizado
 - Modificar o repositorio para o qual os pushs são enviados para outro repositório
 - Criar uma pipeline ou CI para seu projeto
